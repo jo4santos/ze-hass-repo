@@ -1,0 +1,1 @@
+# Frigate custom add-on
